@@ -1,4 +1,3 @@
-% ≥ı ºªØ
 lammda = 1;
 name = 'example_new';%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 load(['.\', name, '.mat']);
